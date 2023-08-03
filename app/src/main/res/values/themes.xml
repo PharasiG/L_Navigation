@@ -1,0 +1,16 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.L_Navigation" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.L_Navigation" parent="Base.Theme.L_Navigation" />
+
+    <!--    <style name="AppTheme.AppBarOverlay" parent="Theme.Material3.DayNight">-->
+    <!--        <item name="android:background">@color/black</item>-->
+    <!--        <item name="android:elevation">16dp</item>-->
+    <!--        <item name="android:windowFullscreen">true</item>-->
+    <!--    </style>-->
+
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">L_Navigation</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_first_label">First</string>
+    <string name="fragment_second_label">Second</string>
+</resources>
